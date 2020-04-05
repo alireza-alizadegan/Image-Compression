@@ -82,4 +82,4 @@ title('Original')
 % difference image
 figure;
 dy=y1-y;
-imagesc(dy);
+imagesc(dy)
